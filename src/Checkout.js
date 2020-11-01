@@ -31,14 +31,9 @@ function Checkout() {
                             />
                         ))
                     }
-                    {/* BasketItem */}
-                    {/* BasketItem */}
-                    {/* BasketItem */}
-                    {/* BasketItem */}
-                    {/* BasketItem */}
                 </div>
             </div>
-            <div className="checkout__">
+            <div className="checkout__subtotal">
                 <Subtotal />
             </div>
         </div>
